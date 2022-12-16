@@ -1,0 +1,138 @@
+{
+    "customers": [
+        {
+            "matrix_row_ids": [
+                {
+                    "id": 911,
+                    "value": "Saya percaya dengan arah dan tujuan strategis Perusahaan.",
+                    "suggested_answer_ids": [
+                        {
+                            "id": 806,
+                            "value": "Sangat Setuju"
+                        },
+                        {
+                            "id": 807,
+                            "value": "Setuju"
+                        },
+                        {
+                            "id": 808,
+                            "value": "Kurang Setuju"
+                        },
+                        {
+                            "id": 809,
+                            "value": "Tidak Setuju"
+                        },
+                        {
+                            "id": 810,
+                            "value": "Sangat Tidak Setuju"
+                        }
+                    ]
+                },
+                {
+                    "id": 912,
+                    "value": "Tidak mudah bagi saya untuk meninggalkan Perusahaan ini (resign/mengundurkan diri).",
+                    "suggested_answer_ids": [
+                        {
+                            "id": 811,
+                            "value": "Sangat Setuju"
+                        },
+                        {
+                            "id": 812,
+                            "value": "Setuju"
+                        },
+                        {
+                            "id": 813,
+                            "value": "Kurang Setuju"
+                        },
+                        {
+                            "id": 814,
+                            "value": "Tidak Setuju"
+                        },
+                        {
+                            "id": 815,
+                            "value": "Sangat Tidak Setuju"
+                        }
+                    ]
+                },
+                {
+                    "id": 913,
+                    "value": "Saya tidak akan ragu merekomendasikan Perusahaan ini kepada teman yang sedang mencari pekerjaan.",
+                    "suggested_answer_ids": [
+                        {
+                            "id": 816,
+                            "value": "Sangat Setuju"
+                        },
+                        {
+                            "id": 817,
+                            "value": "Setuju"
+                        },
+                        {
+                            "id": 818,
+                            "value": "Kurang Setuju"
+                        },
+                        {
+                            "id": 819,
+                            "value": "Tidak Setuju"
+                        },
+                        {
+                            "id": 820,
+                            "value": "Sangat Tidak Setuju"
+                        }
+                    ]
+                },
+                {
+                    "id": 914,
+                    "value": "Saya mempunyai kemauan untuk bekerja sebaik-baiknya setiap hari.",
+                    "suggested_answer_ids": [
+                        {
+                            "id": 821,
+                            "value": "Sangat Setuju"
+                        },
+                        {
+                            "id": 822,
+                            "value": "Setuju"
+                        },
+                        {
+                            "id": 823,
+                            "value": "Kurang Setuju"
+                        },
+                        {
+                            "id": 824,
+                            "value": "Tidak Setuju"
+                        },
+                        {
+                            "id": 825,
+                            "value": "Sangat Tidak Setuju"
+                        }
+                    ]
+                },
+                {
+                    "id": 915,
+                    "value": "Saya termotivasi untuk mencapai hasil lebih tinggi daripada target yang ditetapkan.",
+                    "suggested_answer_ids": [
+                        {
+                            "id": 826,
+                            "value": "Sangat Setuju"
+                        },
+                        {
+                            "id": 827,
+                            "value": "Setuju"
+                        },
+                        {
+                            "id": 828,
+                            "value": "Kurang Setuju"
+                        },
+                        {
+                            "id": 829,
+                            "value": "Tidak Setuju"
+                        },
+                        {
+                            "id": 830,
+                            "value": "Sangat Tidak Setuju"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

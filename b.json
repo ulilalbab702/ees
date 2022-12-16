@@ -1,0 +1,1272 @@
+{
+    "message": "Succeed!",
+    "customers": [
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": "char_box"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": "numerical_box"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": "date"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 791,
+                    "value": "YKBUT"
+                },
+                {
+                    "id": 790,
+                    "value": "UT SCHOOL"
+                },
+                {
+                    "id": 793,
+                    "value": "UT DCARE"
+                },
+                {
+                    "id": 794,
+                    "value": "MITRA BAKTI UT"
+                },
+                {
+                    "id": 795,
+                    "value": "GSI"
+                },
+                {
+                    "id": 789,
+                    "value": "KAMAJU"
+                },
+                {
+                    "id": 797,
+                    "value": "KANITRA"
+                },
+                {
+                    "id": 788,
+                    "value": "DPP"
+                },
+                {
+                    "id": 796,
+                    "value": "LSP ABI"
+                },
+                {
+                    "id": 798,
+                    "value": "KOPKAR YKBUT"
+                }
+            ],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": "simple_choice"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": "date"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 799,
+                    "value": "Karyawan Tetap"
+                },
+                {
+                    "id": 800,
+                    "value": "Karyawan Kontrak"
+                }
+            ],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": "simple_choice"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 801,
+                    "value": "Admin / Officer"
+                },
+                {
+                    "id": 802,
+                    "value": "Analyst / Staff"
+                },
+                {
+                    "id": 805,
+                    "value": "Advisor"
+                },
+                {
+                    "id": 804,
+                    "value": "Departement Head"
+                },
+                {
+                    "id": 803,
+                    "value": "Section Head / Supervisor"
+                }
+            ],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": "simple_choice"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 806,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 807,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 808,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 809,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 810,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 911,
+                    "value": "Saya percaya dengan arah dan tujuan strategis Perusahaan."
+                },
+                {
+                    "id": 912,
+                    "value": "Tidak mudah bagi saya untuk meninggalkan Perusahaan ini (resign/mengundurkan diri)."
+                },
+                {
+                    "id": 913,
+                    "value": "Saya tidak akan ragu merekomendasikan Perusahaan ini kepada teman yang sedang mencari pekerjaan."
+                },
+                {
+                    "id": 914,
+                    "value": "Saya mempunyai kemauan untuk bekerja sebaik-baiknya setiap hari."
+                },
+                {
+                    "id": 915,
+                    "value": "Saya termotivasi untuk mencapai hasil lebih tinggi daripada target yang ditetapkan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 821,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 822,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 823,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 824,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 825,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 927,
+                    "value": "Saya jarang menemui hambatan untuk mengeluarkan kemampuan terbaik saya."
+                },
+                {
+                    "id": 928,
+                    "value": "Saya jarang menemui hambatan untuk mencapai kesuksesan di tempat kerja."
+                },
+                {
+                    "id": 929,
+                    "value": "Saya mendapatkan cukup sumber daya dari Perusahaan untuk mencapai performa terbaik."
+                },
+                {
+                    "id": 930,
+                    "value": "Saya mendapatkan kesempatan untuk mendapatkan tantangan yang lebih dalam pekerjaan."
+                },
+                {
+                    "id": 931,
+                    "value": "Saya mendapatkan kesempatan untuk memengeluarkan kemampuan terbaik di tempat kerja."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 826,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 827,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 828,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 829,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 830,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1019,
+                    "value": "Saya tidak mudah kehabisan energi ketika bekerja"
+                },
+                {
+                    "id": 932,
+                    "value": "Saya bekerja dengan penuh semangat setiap hari."
+                },
+                {
+                    "id": 933,
+                    "value": "Saya mendapatkan bantuan ketika mengalami kesulitan untuk menyelesaikan pekerjaan."
+                },
+                {
+                    "id": 934,
+                    "value": "Saya seringkali merasa antusias dalam menyelesaikan pekerjaan."
+                },
+                {
+                    "id": 935,
+                    "value": "Saya seringkali merasa berharga ketika menyelesaikan pekerjaan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 811,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 812,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 813,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 814,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 815,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1020,
+                    "value": "Atasan langsung saya menyusun target yang jelas bersama dengan saya."
+                },
+                {
+                    "id": 917,
+                    "value": "Atasan langsung  saya memberikan dukungan yang saya butuhkan untuk mencapai target kerja."
+                },
+                {
+                    "id": 918,
+                    "value": "Atasan  langsung saya  mendorong dan memotivasi  saya untuk melakukan yang terbaik."
+                },
+                {
+                    "id": 1021,
+                    "value": "Atasan langsung saya memberikan apresiasi terhadap hasil kerja saya."
+                },
+                {
+                    "id": 1022,
+                    "value": "Atasan langsung saya memberikan masukan yang memungkinkan saya untuk meningkatkan kinerja saya."
+                },
+                {
+                    "id": 1023,
+                    "value": "Atasan langsung saya memperlihatkan sikap keteladanan dalam bekerja."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 816,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 817,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 818,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 819,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 820,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 922,
+                    "value": "Manajemen puncak (setara direktur/chief ke atas) terbuka dalam berkomunikasi."
+                },
+                {
+                    "id": 923,
+                    "value": "Manajemen puncak (setara direktur/chief ke atas) mudah dijumpai oleh karyawan."
+                },
+                {
+                    "id": 924,
+                    "value": "Manajemen puncak (setara direktur/chief ke atas) di Perusahaan saya membuat keputusan bisnis yang tepat."
+                },
+                {
+                    "id": 925,
+                    "value": "Manajemen puncak (setara direktur/chief ke atas) dalam Perusahaan ini memberikan arah yang jelas terhadap masa depan."
+                },
+                {
+                    "id": 926,
+                    "value": "Manajemen puncak (setara direktur/chief ke atas ke atas) membuat saya optimis akan masa depan Perusahaan ini."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 831,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 832,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 833,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 834,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 835,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1018,
+                    "value": "Perusahaan saya bertanggung jawab kepada masyarakat dan lingkungan."
+                },
+                {
+                    "id": 1024,
+                    "value": "Perusahaan saya mematuhi peraturan-peraturan yang ditetapkan oleh pemerintah (misal: peraturan ketenagakerjaan, lingkungan, perpajakan, dll)."
+                },
+                {
+                    "id": 1025,
+                    "value": "Perusahaan saya memiliki reputasi yang baik dibandingkan dengan Perusahaan lainnya."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 836,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 837,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 838,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 839,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 840,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1015,
+                    "value": "Saya bangga saat bercerita kepada orang lain bahwa saya bekerja di Perusahaan ini."
+                },
+                {
+                    "id": 1026,
+                    "value": "Perusahaan saya menawarkan nilai-nilai yang berbeda (unik/mempunyai nilai pembeda) dibandingkan Perusahaan lainnya (misalnya: penghasilan, karir, pengembangan, budaya Perusahaan, pengalaman bekerja, dll)."
+                },
+                {
+                    "id": 1027,
+                    "value": "Saya dapat menjelaskan apa yang membedakan bekerja di Perusahaan ini dengan Perusahaan lainnya."
+                },
+                {
+                    "id": 1028,
+                    "value": "Nilai-nilai yang ditawarkan oleh Perusahaan saya (misalnya: penghasilan, karir, pengembangan, budaya Perusahaan, pengalaman bekerja, dll) sesuai dengan yang saya cari."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 841,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 842,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 843,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 844,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 845,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1029,
+                    "value": "Perusahaan dapat menjelaskan bagaimana saya bisa meningkatkan kemajuan karir saya."
+                },
+                {
+                    "id": 1030,
+                    "value": "Saya mengetahui kesempatan karir yang tersedia bagi saya."
+                },
+                {
+                    "id": 1031,
+                    "value": "Atasan langsung saya membantu saya dalam perencanaan karir saya."
+                },
+                {
+                    "id": 1032,
+                    "value": "Perusahaan saya menawarkan peluang karir yang sangat bagus bagi para karyawan yang menunjukan kinerja yang sangat baik."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 846,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 847,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 848,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 849,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 850,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1033,
+                    "value": "Perusahaan memberikan kesempatan kepada saya untuk mengikuti pelatihan yang sesuai dengan kebutuhan pekerjaan."
+                },
+                {
+                    "id": 1034,
+                    "value": "Perusahaan memberikan kesempatan bagi saya untuk meningkatkan berbagai keterampilan."
+                },
+                {
+                    "id": 1035,
+                    "value": "Perusahaan memberikan kesempatan bagi saya untuk mempelajari berbagai keterampilan baru."
+                },
+                {
+                    "id": 1036,
+                    "value": "Perusahaan memberikan kesempatan bagi saya untuk mengerjakan tugas-tugas guna meningkatkan berbagai ketrampilan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 851,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 852,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 853,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 854,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 855,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 952,
+                    "value": "Strategi Perusahaan saya mencerminkan nilai-nilai (core values/nilai inti/culture) yang dijunjung tinggi oleh Perusahaan."
+                },
+                {
+                    "id": 953,
+                    "value": "Pendekatan yang dilakukan oleh Perusahaan terhadap pelanggan sesuai dengan nilai-nilai (core values/nilai inti/culture) yang dianut oleh Perusahaan."
+                },
+                {
+                    "id": 954,
+                    "value": "Perusahaan memperlakukan karyawan sesuai dengan nilai-nilai (core values/nilai inti/culture) yang dianut oleh Perusahaan."
+                },
+                {
+                    "id": 955,
+                    "value": "Karyawan di Perusahaan ini berperilaku sesuai dengan dengan nilai-nilai (core values/nilai inti/culture) Perusahaan."
+                },
+                {
+                    "id": 956,
+                    "value": "Terdapat kesesuaian antara nilai-nilai yang saya yakini dengan nilai-nilai (core values/nilai inti/culture) yang dijunjung tinggi oleh Perusahaan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 856,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 857,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 858,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 859,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 860,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 957,
+                    "value": "Perusahaan saya menjelaskan strategi bisnisnya kepada para karyawan."
+                },
+                {
+                    "id": 958,
+                    "value": "Saya mengetahui tujuan yang ingin dicapai Perusahaan."
+                },
+                {
+                    "id": 959,
+                    "value": "Tujuan Perusahaan ini bermakna bagi saya."
+                },
+                {
+                    "id": 960,
+                    "value": "Saya mengetahui strategi yang dilakukan oleh Perusahaan untuk mencapai tujuannya."
+                },
+                {
+                    "id": 961,
+                    "value": "Saya mengetahui bagaimana pekerjaan saya dapat berkontribusi dalam pencapaian tujuan Perusahaan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 861,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 862,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 863,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 864,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 865,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 962,
+                    "value": "Saya dapat memilih cara terbaik untuk menyelesaikan pekerjaan saya."
+                },
+                {
+                    "id": 963,
+                    "value": "Saya memiliki keleluasaan untuk menentukan cara/prosedur dalam menyelesaikan pekerjaan."
+                },
+                {
+                    "id": 964,
+                    "value": "Saya memiliki kewenangan untuk mengambil keputusan dalam lingkup kerja saya."
+                },
+                {
+                    "id": 965,
+                    "value": "Saya memiliki kesempatan untuk menerapkan inisiatif-inisiatif yang saya ajukan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 866,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 867,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 868,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 869,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 870,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 966,
+                    "value": "Pengelolaan kinerja di Perusahaan ini membuat saya dapat memberikan kontribusi sebanyak mungkin bagi kesuksesan Perusahaan."
+                },
+                {
+                    "id": 967,
+                    "value": "Pengelolaan kinerja di Perusahaan ini dapat membantu untuk mengidentifikasi area kekuatan serta area pengembangan saya."
+                },
+                {
+                    "id": 968,
+                    "value": "Saya mengetahui dengan jelas kriteria yang digunakan oleh Perusahaan untuk melakukan penilaian kinerja."
+                },
+                {
+                    "id": 969,
+                    "value": "Penilaian kinerja dilakukan secara objektif oleh Perusahaan."
+                },
+                {
+                    "id": 970,
+                    "value": "Dalam penilaian kinerja, atasan mempertimbangkan inisiatif perbaikan/pengembangan (inovasi/improvement) yang saya lakukan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 871,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 872,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 873,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 874,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 875,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 971,
+                    "value": "Saya mendapatkan penghasilan/imbalan yang sesuai dengan pekerjaan saya (deskripsi, jabatan, nilai pekerjaan)."
+                },
+                {
+                    "id": 972,
+                    "value": "Saya mendapatkan penghasilan/imbalan yang sesuai dengan kompetensi saya."
+                },
+                {
+                    "id": 973,
+                    "value": "Saya mendapatkan penghasilan/imbalan yang sesuai dengan performa/pencapaian yang saya berikan untuk Perusahaan."
+                },
+                {
+                    "id": 974,
+                    "value": "Penghasilan setiap bulan yang saya terima lebih baik dibandingkan dengan pekerjaan yang sama di Perusahaan lain."
+                },
+                {
+                    "id": 975,
+                    "value": "Total penghasilan setahun di Perusahaan ini lebih baik dibandingkan dengan pekerjaan yang sama di Perusahaan lain."
+                },
+                {
+                    "id": 977,
+                    "value": "Perusahaan memberikan tunjangan-tunjangan (misalnya: makan, transportasi, rawat jalan, dll) yang dapat menunjang produktivitas saya."
+                },
+                {
+                    "id": 976,
+                    "value": "Perusahaan memberikan sumbangan-sumbangan  (misalnya: kacamata, rumah sakit, kelahiran, dll) yang dapat meningkatkan kesejahteraan saya."
+                },
+                {
+                    "id": 978,
+                    "value": "Perusahaan memberikan program-program apresiasi yang dapat memotivasi karyawan untuk berprestasi (misalnya: apresiasi karyawan teladan, penghargaan masa kerja, penghargaan inovasi karyawan, dll)."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 876,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 877,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 878,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 879,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 880,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 979,
+                    "value": "Kerjasama antar karyawan di dalam unit kerja saya berjalan dengan efektif."
+                },
+                {
+                    "id": 980,
+                    "value": "Di unit kerja saya, karyawan saling memberikan bantuan bila mengalami kesulitan dalam melaksanakan pekerjaan."
+                },
+                {
+                    "id": 981,
+                    "value": "Jika menghadapi permasalahan, rekan-rekan kerja di Perusahaan saya tidak saling menyalahkan."
+                },
+                {
+                    "id": 982,
+                    "value": "Rekan-rekan kerja saya saling berbagi cara kerja terbaik untuk menyelesaikan pekerjaan."
+                },
+                {
+                    "id": 983,
+                    "value": "Rekan-rekan di dalam unit kerja saya saling terbuka untuk menyampaikan ide/pendapat."
+                },
+                {
+                    "id": 984,
+                    "value": "Kerjasama antar unit kerja di Perusahaan saya berjalan dengan lancar (misalnya: antar Departemen, antar Divisi, dst)."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 881,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 882,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 883,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 884,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 885,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 985,
+                    "value": "Saya merasa Perusahaan ini menghargai keragaman (misalnya: usia, gender, suku, agama, ras, antar golongan, bahasa, kualifikasi pendidikan, gagasan, dan sudut pandang)."
+                },
+                {
+                    "id": 986,
+                    "value": "Jajaran manajemen Perusahaan memberikan kesempatan yang sama terhadap setiap karyawan tanpa membedakan suku, agama, ras, dan antar golongan (misalnya: karir, penilaian karya, pengembangan, sanksi, dll)."
+                },
+                {
+                    "id": 987,
+                    "value": "Rekan kerja saya adalah orang-orang yang bisa menerima perbedaan antar individu (misalnya: usia, gender, suku, agama, ras, antar golongan, bahasa, kualifikasi pendidikan, gagasan, dan sudut pandang)."
+                },
+                {
+                    "id": 988,
+                    "value": "Tidak masalah bagi saya jika rekan kerja/atasan/bawahan saya berbeda usia, gender, suku, agama, ras, antar golongan, bahasa, kualifikasi pendidikan, gagasan, dan sudut pandang."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 886,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 887,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 888,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 889,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 890,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 989,
+                    "value": "Saya dapat mengelola tekanan (stres) dalam pekerjaan."
+                },
+                {
+                    "id": 990,
+                    "value": "Saya jarang menyelesaikan pekerjaan diluar jam kerja saya."
+                },
+                {
+                    "id": 991,
+                    "value": "Saya dapat menyeimbangkan antara bekerja dengan menjalani kehidupan personal saya."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 891,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 892,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 893,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 894,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 895,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 992,
+                    "value": "Proses kerja di lingkup pekerjaan saya cukup efektif untuk mencapai target."
+                },
+                {
+                    "id": 993,
+                    "value": "Struktur organisasi di unit kerja saya tidak menjadi hambatan untuk bekerja dengan produktif."
+                },
+                {
+                    "id": 994,
+                    "value": "Saya mendapatkan perangkat kerja yang memadai untuk melakukan pekerjaan (misalnya: komputer, teknologi, koneksi internet, alat tulis, dll)."
+                },
+                {
+                    "id": 995,
+                    "value": "Saya mendapatkan dukungan dana/budget yang memadai dari Perusahaan untuk melakukan pekerjaan."
+                },
+                {
+                    "id": 996,
+                    "value": "Saya mendapatkan dukungan informasi yang memadai untuk melakukan pekerjaan."
+                },
+                {
+                    "id": 997,
+                    "value": "Saya merasa unit kerja saya memiliki cukup karyawan untuk melakukan pekerjaan yang ada."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [],
+            "matrix_row_ids": [],
+            "question_type": [
+                {
+                    "type": false
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 896,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 897,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 898,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 899,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 900,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 998,
+                    "value": "Pekerjaan yang saya lakukan sesuai dengan perjanjian kerja saya dengan Perusahaan."
+                },
+                {
+                    "id": 999,
+                    "value": "Saya tidak mendapatkan perlakukan/tindakan kekerasan dan pelecehan oleh rekan kerja, atasan, atau perusahaan."
+                },
+                {
+                    "id": 1000,
+                    "value": "Perusahaan berkomitmen dalam aspek Kesehatan dan Keselamatan Kerja (K3)."
+                },
+                {
+                    "id": 1001,
+                    "value": "Perusahaan menjamin/memberikan hak-hak saya dalam bekerja sesuai peraturan perundang-undangan yang berlaku (misalnya: Upah, Cuti, Lembur, dll)."
+                },
+                {
+                    "id": 1002,
+                    "value": "Perusahaan memberikan perlindungan jaminan sosial ketenagakerjaan sesuai peraturan perundang-undangan yang berlaku."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 901,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 902,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 903,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 904,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 905,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1003,
+                    "value": "Perusahaan menyediakan media komunikasi dua arah bagi karyawan untuk menyalurkan ide, pendapat, atau keluh kesahnya."
+                },
+                {
+                    "id": 1004,
+                    "value": "Perusahaan menanggapi ide, pendapat, atau keluh kesahnya yang disampaikan oleh karyawannya."
+                },
+                {
+                    "id": 1005,
+                    "value": "Perusahaan mengkomunikasikan kepada karyawan setiap kebijakan Perusahaan terbaru yang terkait dengan kekaryawanan."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        },
+        {
+            "suggested_answer_ids": [
+                {
+                    "id": 906,
+                    "value": "Sangat Setuju"
+                },
+                {
+                    "id": 907,
+                    "value": "Setuju"
+                },
+                {
+                    "id": 908,
+                    "value": "Kurang Setuju"
+                },
+                {
+                    "id": 909,
+                    "value": "Tidak Setuju"
+                },
+                {
+                    "id": 910,
+                    "value": "Sangat Tidak Setuju"
+                }
+            ],
+            "matrix_row_ids": [
+                {
+                    "id": 1006,
+                    "value": "Suasana kerja di perusahaan ini memungkinkan saya untuk bekerja dengan produktif."
+                },
+                {
+                    "id": 1007,
+                    "value": "Hubungan antara karyawan dan jajaran manajemen di perusahaan ini berjalan dengan baik."
+                },
+                {
+                    "id": 1008,
+                    "value": "Program-program kebersamaan/kekaryawanan yang diselenggarakan perusahaan dapat meningkatkan hubungan yang harmonis di perusahaan (misalnya: Family/Employee Day, Gathering/Outing, Kompetisi Olah Raga/Seni, dll)."
+                }
+            ],
+            "question_type": [
+                {
+                    "type": "matrix"
+                }
+            ]
+        }
+    ]
+}
